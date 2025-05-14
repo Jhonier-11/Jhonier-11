@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫Sobre Mi:
 Soy estudiante de Ingeniería de Sistemas apasionado por el desarrollo fullstack, actualmente trabajando en aplicaciones web con React/Next.js para frontend y alternando entre Node.js y Python para backend (Flask, Django, FastAPI). <br>Busco colaborar en proyectos innovadores que combinen mi conocimiento en ambos extremos del desarrollo, mientras continúo aprendiendo sobre arquitecturas cloud, CI/CD y contenedores Docker. <br>Necesito ayuda para profundizar en ciencia de datos con el ecosistema Python (NumPy, Pandas, TensorFlow) y microservicios. <br>Pregúntame sobre desarrollo web moderno, bases de datos SQL/NoSQL, o integración de APIs RESTful. 
 
 
